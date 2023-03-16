@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/E-Commerce-Landing-Page-React.js/static/css/main.0e6c69b4.css",
-    "main.js": "/E-Commerce-Landing-Page-React.js/static/js/main.d5109c90.js",
+    "main.js": "/E-Commerce-Landing-Page-React.js/static/js/main.9b4a8a6f.js",
     "static/media/image-product-2.jpg": "/E-Commerce-Landing-Page-React.js/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
     "static/media/image-product-1.jpg": "/E-Commerce-Landing-Page-React.js/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
     "static/media/image-product-3.jpg": "/E-Commerce-Landing-Page-React.js/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
     "static/media/image-product-4.jpg": "/E-Commerce-Landing-Page-React.js/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
     "index.html": "/E-Commerce-Landing-Page-React.js/index.html",
     "main.0e6c69b4.css.map": "/E-Commerce-Landing-Page-React.js/static/css/main.0e6c69b4.css.map",
-    "main.d5109c90.js.map": "/E-Commerce-Landing-Page-React.js/static/js/main.d5109c90.js.map"
+    "main.9b4a8a6f.js.map": "/E-Commerce-Landing-Page-React.js/static/js/main.9b4a8a6f.js.map"
   },
   "entrypoints": [
     "static/css/main.0e6c69b4.css",
-    "static/js/main.d5109c90.js"
+    "static/js/main.9b4a8a6f.js"
   ]
 }
